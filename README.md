@@ -115,5 +115,5 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 
 ## Proxy Provider
 
-* [Pzzqz.com] Anonymouse surfing with free working proxy server list database. 
+* [Pzzqz.com](https://pzzqz.com/) Anonymouse surfing with free working proxy server list database. 
 * [add proxy provider list](https://github.com/pzzqzproject/awesome-proxy/issues)
