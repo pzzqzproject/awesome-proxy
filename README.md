@@ -17,6 +17,7 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 - [HTTP/HTTPS Proxy](#httphttps-proxy-http-tunnel)
 - [FTP Proxy](#ftp-proxy)
 - [DNS Proxy](#dns-proxy)
+- [Proxy Provider](#proxy-provider)
 
 ## What is
 
@@ -111,3 +112,8 @@ A collaborative list of awesome proxy servers and resources. Feel free to contri
 ### Popular DNS Proxy servers
 
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
+
+## Proxy Provider
+
+* [Pzzqz.com] Anonymouse surfing with free working proxy server list database. 
+* [add proxy provider list](https://github.com/pzzqzproject/awesome-proxy/issues)
